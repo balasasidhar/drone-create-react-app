@@ -1,0 +1,13 @@
+{
+  "name": "drone-create-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sasidhar-kola/drone-create-react-app.git",
+  "author": "KOLA BALA SASIDHAR (CRGL-THIRDPARTY.COM) <kola_bala_sasidhar@crgl-thirdparty.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router": "^5.0.1"
+  }
+}
